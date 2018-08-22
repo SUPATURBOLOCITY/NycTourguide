@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="row_padding_vertical">16dp</dimen>
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_120">120dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_300">300dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_20sp">20sp</dimen>
+    <dimen name="dimen_15sp">15sp</dimen>
+    <dimen name="dimen_10sp">10sp</dimen>
+
+</resources>
